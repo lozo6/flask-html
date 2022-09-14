@@ -8,3 +8,15 @@ Inside of the repo, please create at least 2 pages that are manually styled usin
 - static text (e.g., headers or paragraphs) 
 - at least one image (e.g., png, jpeg, etc...) 
 - a button (does not need to be functional)
+
+## info
+
+I had based my repo on my previous flask assignment lozo6/flask-part-1
+
+I had added a home page where you can go to two webpages
+
+The first webpage is a login webpage where you can see the logo (which is an anime movie named Hello World)
+
+The second webpage, I kept the same as it already satified requirements
+
+Each webpage can return back to the home page
